@@ -1,0 +1,13 @@
+.hgignore
+.project
+.settings
+.classpath
+.metadata
+.cache
+.idea
+.hg/
+
+*.rej
+build
+target
+*.iml
